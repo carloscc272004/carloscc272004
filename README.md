@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi Im Carlos! 👋
 
+
+🎓  I am part of the Integrated BS/MS Electrical Engineering program @ UTSA with a Concentration in Computer Engineering.  I will be finishing my undergraduate studies after the Spring 2026 semester. Throughout my studies, I have acquired a deep interest and academic experience in computer systems and architecture, RTL design, and robotics. These interests were developed throughout my academic courses, such as Computer Architecture, C++ and Data Structures, and AI Hardware and Programming.
+
+🍎  As of Summer 2025, I will be joining Apple as a System Design Engineering Intern!
+
+🥼  I have been a part of numerous research labs as well as held numerous different positions during my time at UTSA. I have been a research assistant for the Reinforced Learning and Robotics Research Lab, where I conducted research and completed projects associated with embedded control, computer vision, and reinforcement learning. I am also a part of the SEIDI Lab research group, where my focus has been more geared towards instrumentation, sensor research, and high-speed collision monitoring. Lastly, I have worked as a Lab Assistant for the Department of Mathematics, and currently I am a Floor Tutor at the TRC Tutoring Center.
 <!--
 **carloscc272004/carloscc272004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
